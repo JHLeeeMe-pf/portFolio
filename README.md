@@ -1,6 +1,6 @@
 ## 이정환 포트폴리오
 
-### 프로젝트
+### 게시판프로젝트
 [게시판 바로가기](https://github.com/dlwjdghks92-pf/boardsProject)
 
 ### 개요
@@ -14,3 +14,9 @@
 * Eclipse
 * Git, GitHub
 <br>
+
+### 게시판 프로젝트
+[멜론_차트_스크래피 바로가기](https://github.com/dlwjdghks92-pf/melonChartProject)
+
+### 개요
+*
