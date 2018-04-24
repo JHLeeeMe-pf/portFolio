@@ -21,3 +21,12 @@
 
 ### 개요
 * 멜론 차트 스크래핑 후 엑셀파일에 쓰고 저장
+
+### 사용기술
+* openpyxl
+* bs4
+* requests
+* selenium
+* pathlib
+* dateutil
+* datetime
