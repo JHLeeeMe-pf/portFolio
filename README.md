@@ -14,9 +14,10 @@
 * Eclipse
 * Git, GitHub
 <br>
+### 
 
 ### 멜론 차트 스크래피
 [멜론_차트_스크래피 바로가기](https://github.com/dlwjdghks92-pf/melonChartScrapy)
 
 ### 개요
-*
+* 멜론 차트 스크래핑 후 엑셀파일에 쓰고 저장
