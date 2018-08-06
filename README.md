@@ -14,7 +14,7 @@
 * Eclipse
 * Git, GitHub
 <br>
-### 
+<p>
 
 ## 멜론 차트 스크래피
 [멜론_차트_스크래피 바로가기](https://github.com/dlwjdghks92-pf/melonChartScrapy)
@@ -31,7 +31,7 @@
 * dateutil
 * datetime
 <br>
-###
+<p>
 
 ## Image Classification
 [Image Classification 바로가기](https://github.com/dlwjdghks92-pf/imgClassification)
