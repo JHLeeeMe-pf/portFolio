@@ -30,3 +30,10 @@
 * pathlib
 * dateutil
 * datetime
+###
+
+### Image Classification
+[Image Classification 바로가기](https://github.com/dlwjdghks92-pf/imgClassification)
+
+### 개요
+* 데이터 수집, 가공 후 CNN 구조로 데이터 분류
