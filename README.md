@@ -17,7 +17,7 @@
 <p>
 
 ## 멜론 차트 스크래피
-[멜론_차트_스크래피 바로가기](https://github.com/dlwjdghks92-pf/melonChartScrapy)
+[멜론 차트 스크래피 바로가기](https://github.com/dlwjdghks92-pf/melonChartScrapy)
 
 ### 개요
 * 멜론 차트 스크래핑 후 엑셀파일에 쓰고 저장
@@ -38,3 +38,25 @@
 
 ### 개요
 * 데이터 수집, 가공 후 CNN 구조로 데이터 분류
+
+### 사용기술
+* tensorflow
+* cv2
+* numpy
+* pandas
+* urllib
+* bs4
+* selenium
+<br>
+<p>
+  
+## Stock Prediction
+[Stock Prediction 바로가기](https://github.com/dlwjdghks92-pf/stockPrediction)
+
+### 개요
+* 주식 데이터 수집, 가공 후 RNN model로 다음날 종가 예측
+
+### 사용기술
+* tensorflow
+* numpy
+* pandas
