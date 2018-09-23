@@ -60,3 +60,4 @@
 * tensorflow
 * numpy
 * pandas
+* matplotlib
