@@ -62,3 +62,16 @@
 * numpy
 * pandas
 * matplotlib
+<br>
+<p>
+
+## airline Analysis
+[airline Analysis 바로가기](https://github.com/dlwjdghks92-pf/airlineAnalysis)
+
+### 개요
+* 미국 항공정보를 zeppelin_notebook, spark(on yarn)를 활용한 간단한 시각화
+
+### 사용기술
+* zeppelin
+* spark
+* yarn
