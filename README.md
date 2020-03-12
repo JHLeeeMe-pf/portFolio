@@ -75,3 +75,9 @@
 * zeppelin
 * spark
 * yarn
+
+## 6. Zsh Theme
+[Zsh Theme 바로가기](https://github.com/JHLeeeMe-pf/JHLeeeMe-Zsh-Theme)
+
+### 개요
+* My Zsh Theme
